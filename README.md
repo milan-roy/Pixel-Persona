@@ -1,4 +1,4 @@
-# Gender and Age Detection using CNN
+# Pixel Persona (Gender and Age Detection using CNN)
 
 This project uses **Convolutional Neural Networks (CNNs)** to predict a person’s **gender** and **age** from facial images in real-time.  
 Both models are trained separately on the **[UTKFace Dataset](https://susanqq.github.io/UTKFace/)** and integrated with **OpenCV** for face detection and live camera inference.
